@@ -1,2 +1,2 @@
-# My-college
-一个破双非学生大学四年做的一些项目
+# My-Notes
+The Notes I created while I'm learning.
